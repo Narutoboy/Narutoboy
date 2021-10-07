@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 ### 👯 I’m looking to collaborate on Android Apps
 ### 📫 How to reach me: erakshaysharma21@gmail.com
 ### ⚡ Fun fact: I've develop my college app 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Narutoboy&" alt="Akshay Sharma " /></p>
