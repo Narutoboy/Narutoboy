@@ -8,6 +8,9 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on Android Apps
 - 📫 How to reach me: erakshaysharma21@gmail.com
+- Two of my favorite quotes related to teamwork and agile development are:
+- “One person struggles, we all struggle. One person triumphs, we all triumph.” – Coach Carter
+- “The only way to win is to learn faster than anyone else.” – Eric Ries, The Lean Startup
 - ⚡ Fun fact: I've develop my college app 
 -->
 
